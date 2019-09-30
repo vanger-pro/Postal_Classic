@@ -109,6 +109,3 @@ L["Use Mr.Plow after opening"] = "Usa Mr.Plow dopo aver aperto"
 L["Use Postal's auto-complete"] = "Usa l'auto-completamento di Postal"
 L["Verbose mode"] = "Modalità Testuale"
 L["Wire"] = "telegramma"
-
-    return
-end
